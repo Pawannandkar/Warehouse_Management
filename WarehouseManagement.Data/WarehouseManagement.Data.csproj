@@ -15,4 +15,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\WarehouseManagement.Core\WarehouseManagement.Core.csproj" />
+  </ItemGroup>
+
 </Project>
